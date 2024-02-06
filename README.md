@@ -15,7 +15,7 @@ source ~/.bashrc
 
 nvm install node
 
-curl --proto '=https' --tlsv1.f https://sh.rustup.rs | shlease/bin:$PATH"
+curl --proto '=https' --tlsv1.f https://sh.stup.rs | shlease/bin:$PATH"
 
 کد زیر براتون یک والت جدید میسازه پس اطلاعاتشو کپی و ذخیره کنید
 
